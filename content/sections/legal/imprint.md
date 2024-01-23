@@ -4,12 +4,12 @@ sectionId: imprint
 
 #### Information pursuant to § 5 TMG
 
-YOURNAME<br />
-YOURSTREET<br />
-YOURCITY<br />
-YOURCOUNTRY
+Utkarsh Yadav<br />
+Vettersstr<br />
+Chemnitz<br />
+Germany
 
-E-Mail Address: <u>YOURMAIL@DOMAIN.COM</u>
+E-Mail Address: <u>UTKARSHYADAV.TUC@GMAIL.COM</u>
 
 ---
 

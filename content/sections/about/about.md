@@ -1,14 +1,14 @@
 ---
-imageSrc: "../../images/charles-deluvio-DgoyKNgPiFQ-unsplash.jpg"
-imageAlt: "About Gatsby Theme Portfolio Minimal"
+imageSrc: "../../images/profile.jpg"
+imageAlt: "About Me."
 ---
 
-Portfolio Minimal is a Gatsby Theme that creates outstanding one-pages portfolio within minutes!
+**I'm Utkarsh**, Currently pursuing <a target="_blank" rel="nofollow noopener noreferrer" aria-label="External Link"><u>*M.Sc. in Web Engineering*</u></a>
+<br> 
+**Technical University of Chemnitz** in ***Germany***. 💻 On the lookout for a remote working student or internship role that screams innovation?
 
-It has predefined sections for your bio, skills, projects, and contact details. If you are a writer on Medium, you can integrate your latest articles in a distinct section as well. While building the theme, I tried to keep the setup as simple as possible while keeping everything configurable if you like to.
+🌐 Here's the deal: I'm not just a coder; I'm a digital maestro. 🎨 Imagine a developer who not only meets but exceeds expectations, crafting projects that turn heads.
 
-Using theme composition, you can easily customize the CSS theme to your own preferences - e.g. change colors, fonts, etc.
+💡 What's my secret sauce? I'm not just keeping up; I'm setting trends. Your team deserves a trendsetter, and that's where I come in.
 
-Last but not least, it has some cool features you can opt-in to: Dark Mode, Splash Screen, Cookie Banner, and more to find out :)
-
-Photo by <a href="https://unsplash.com/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank" rel="nofollow noopener noreferrer" aria-label="External Link"><u>Charles Deluvio</u></a> on Unsplash
+🔧 Ready to turn your next project into a masterpiece? Let's chat. Your tech game is about to get a serious upgrade! 🚀✨

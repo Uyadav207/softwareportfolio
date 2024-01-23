@@ -2,18 +2,27 @@
 sectionId: privacy
 ---
 
-Your privacy is important to me. It is my, YOURNAME, policy to respect your privacy regarding any information I may collect from you across my website, YOURDOMAIN.
+**Privacy Policy**
 
-I only ask for personal information when I truly need it to provide a service to you. I collect it by fair and lawful means, with your knowledge and consent. I also let you know why I am collecting it and how it will be used.
+Your privacy is of utmost importance to me, [Utkarsh Yadav]. This policy outlines how I collect, use, and safeguard any information gathered through my website, [utkarsh-yadav.vercel.app].
 
-I only retain collected information for as long as necessary to provide you with your requested service. What data I store, I'll protect within commercially acceptable means to prevent loss and theft, as well as unauthorised access, disclosure, copying, use or modification.
+**Information Collection:**
+I only request personal information when it is essential to provide you with a service. All information is collected through fair and lawful means, with your knowledge and consent. I am transparent about why I am collecting the data and how it will be utilized.
 
-I don’t share any personally identifying information publicly or with third-parties, except when required to by law.
+**Data Retention:**
+I retain collected information only for the necessary duration to deliver the requested services. Any stored data is protected using commercially acceptable measures to prevent loss, theft, unauthorized access, disclosure, copying, use, or modification.
 
-My website may link to external sites that are not operated by me. Please be aware that I have no control over the content and practices of these sites, and cannot accept responsibility or liability for their respective privacy policies.
+**Third-Party Sharing:**
+I do not share personally identifying information publicly or with third parties unless required by law.
 
-You are free to refuse my request for your personal information, with the understanding that I may be unable to provide you with some of your desired services.
+**External Links:**
+My website may contain links to external sites not operated by me. Please note that I have no control over their content and practices, and I cannot be held responsible for their respective privacy policies.
 
-Your continued use of my website will be regarded as acceptance of my practices around privacy and personal information. If you have any questions about how I handle user data and personal information, feel free to contact me.
+**Refusal of Information:**
+You are free to decline providing personal information. However, please be aware that this may affect my ability to offer certain services.
 
-This policy is effective as of 22 September 2019. It has been generated with the help of GetTerms.io.
+**Acceptance of Terms:**
+Continued use of my website implies acceptance of my privacy practices. If you have any questions about how I handle user data and personal information, feel free to contact me.
+
+**Effective Date:**
+This policy is effective as of 25 January 2024.
