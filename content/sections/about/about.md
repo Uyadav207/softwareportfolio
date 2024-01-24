@@ -7,8 +7,6 @@ imageAlt: "About Me."
 <br> 
 **Technical University of Chemnitz** in ***Germany***. 💻 On the lookout for a remote working student or internship role that screams innovation?
 
-🌐 Here's the deal: I'm not just a coder; I'm a digital maestro. 🎨 Imagine a developer who not only meets but exceeds expectations, crafting projects that turn heads.
+Passionate software developer with a year of hands-on experience at a top-tier IT firm, 🚀specializing in JavaScript, TypeScript, ReactJS, NextJS, and NodeJS. 
 
-💡 What's my secret sauce? I'm not just keeping up; I'm setting trends. Your team deserves a trendsetter, and that's where I come in.
-
-🔧 Ready to turn your next project into a masterpiece? Let's chat. Your tech game is about to get a serious upgrade! 🚀✨
+Proven track record in crafting responsive user interfaces and contributing to innovative projects. Eager to bring my expertise and enthusiasm to your team for impactful collaborations. 💻✨
