@@ -11,7 +11,8 @@
     "social": {
       "github": "https://github.com/Uyadav207",
       "linkedin": "https://www.linkedin.com/in/yadavutkarsh/",
-      "mail": "mailto:utkarshyadav.tuc@gmail.com"
+      "mail": "mailto:utkarshyadav.tuc@gmail.com",
+      "youtube": "https://www.youtube.com/thenomadicgeeks"
     }
   },
   "siteConfiguration": {
@@ -19,8 +20,8 @@
     "navigation": {
       "header": [
         { "label": "About", "url": "/#about" },
-        { "label": "Projects", "url": "/#features" },
-        { "label": "Contact", "url": "/#github" }
+        { "label": "Projects", "url": "/#projects" },
+        { "label": "Contact", "url": "/#contact" }
       ],
       "ctaButton": {
         "openNewTab": true,
@@ -33,7 +34,7 @@
       ]
     },
     "featureToggles": {
-      "useDarkModeAsDefault": false,
+      "useDarkModeAsDefault": true,
       "useDarkModeBasedOnUsersPreference": true,
       "useCookieBar": false
     }

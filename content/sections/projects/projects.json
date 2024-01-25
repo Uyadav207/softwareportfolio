@@ -3,11 +3,11 @@
     {
       "visible": true,
       "category": "🖥️ E-Commerce Web App",
-      "title": "E-Pharmacy!",
-      "description": "Customer-centric E-Commerce web app for Ordering medicinal products.",
-      "tags": ["JavaScript", "React", "Spring Boot", "MySQL", "Hibernate", "Java" ],
+      "title": "E-Pharmacy",
+      "description": "A comprehensive e-commerce application facilitating seamless ordering, searching, and checkout for medicines. This full-stack solution is powered by Spring Boot for robust backend functionality and React for a dynamic user interface. Users can effortlessly log in, sign up, browse medicines, and complete transactions securely, streamlining the pharmacy shopping experience.",
+      "tags": ["JavaScript", "React", "Spring Boot", "Java", "Hibernate", "React-Router", "CSS3", "BootStrap5" ],
       "image": {
-        "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
+        "src": "../../images/pharmacy.png",
         "alt": "E-Pharmacy",
         "linkTo": "https://github.com/Uyadav207/Online-Medicine-Store"
       },
@@ -20,10 +20,32 @@
     },
     {
       "visible": true,
+      "category": "📱 Mobile Application",
+      "title": "TubeStore",
+      "description": "A Cross-Platform Mobile App crafted with React Native and Google's APIs, offering seamless access to over 10 billion videos. Dive into a world of entertainment, learning, and music anytime, anywhere. Developed using React Native and Redux, the app seamlessly integrates YouTube APIs. Elevating user experience, it boasts two unique features: Dark Mode for eye-friendly browsing and Picture in Picture mode for iOS 14 and above.",
+      "tags": ["JavaScript", "React Native", "Google Youtube API", "Redux", "Material UI", "React Navigation"],
+      "image": {
+        "src": "../../images/tubestore.png",
+        "alt": "TubeStore",
+        "linkTo": "https://github.com/Uyadav207/TubeStore/blob/master/README.md"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/Uyadav207/TubeStore"
+        },
+        {
+          "type": "external",
+          "url": "https://github.com/Uyadav207/TubeStore/blob/master/README.md"
+        }
+      ]
+    },
+    {
+      "visible": true,
       "category": "🖥️ Web Application",
       "title": "Dev Forem",
-      "description": "A Blog Posting website for developers to post their blogs about different technologies.",
-      "tags": ["HandlebarJs", "JavaScript", "Node.js", "REST", "MongoDB"],
+      "description": "Dev Forem: A dynamic blog posting platform tailored for developers, empowering them to share insights on various technologies. This website, developed using Google OAuth 2.0 for secure authentication, allows users to read, create, update, and delete blogs. An innovative feature set includes the ability to privatize or publish blogs, giving creators control over their content's visibility. Dive into the world of technology discussions with Dev Forem.",
+      "tags": [ "HTML5", "BootStrap5", "JavaScript", "HandlebarJs", "Node.js", "REST API", "ExpressJS", "Google OAuth2.0", "MongoDB"],
       "image": {
         "src": "../../images/DevForem.png",
         "alt": "Dev Forem",
