@@ -61,6 +61,28 @@
           "url": "https://raw.githubusercontent.com/Uyadav207/Dev-Forem/master/deepin-screen-recorder_google-chrome_20210129223709.gif"
         }
       ]
+    },
+    {
+      "visible": true,
+      "category": "📱 React Native Mobile Application",
+      "title": "Geolocation Tracking System",
+      "description": "Devised cross-platform mobile app simulate the tracking of persons’ real-time location",
+      "tags": ["React Native", "JavaScript", "MongoDB", "JWT", "React Native maps"],
+      "image": {
+        "src": "../../images/geolocation.png",
+        "alt": "Geolocation Tracking SYstem",
+        "linkTo": "https://github.com/Uyadav207/Geolocation-Tracking-System"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/Uyadav207/dev-forem"
+        },
+        {
+          "type": "external",
+          "url": "https://github.com/Uyadav207/Geolocation-Tracking-System/blob/master/README.md"
+        }
+      ]
     }
   ],
   "button": {
